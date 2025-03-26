@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1742613730 "/Users/jackhsieh/project/resume/resume.tex" "/Users/jackhsieh/project/resume/resume.pdf" "resume" 1742613963
-  "/Users/jackhsieh/project/resume/resume.aux" 1742613731 1082 1ab065c8fbd82d887376b4cb7f38a7f0 ""
+["pdflatex"] 1742985872 "/Users/jackhsieh/project/resume/resume.tex" "/Users/jackhsieh/project/resume/resume.pdf" "resume" 1742985873
+  "/Users/jackhsieh/project/resume/resume.aux" 1742985873 1082 1ab065c8fbd82d887376b4cb7f38a7f0 ""
   "/Users/jackhsieh/project/resume/resume.tex" 1742613752 5942 c5d20eeade357df6d62e73a2481fe6bb ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -86,13 +86,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1624625513 2724735 1fabc742179af5732e018dc8ded06481 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "resume.aux" 1742613731 1082 1ab065c8fbd82d887376b4cb7f38a7f0 "pdflatex"
-  "resume.out" 1742613731 254 dff5a5877604adf0075b7f99e2140733 "pdflatex"
+  "resume.aux" 1742985873 1082 1ab065c8fbd82d887376b4cb7f38a7f0 "pdflatex"
+  "resume.out" 1742985873 254 dff5a5877604adf0075b7f99e2140733 "pdflatex"
   "resume.tex" 1742613752 5942 c5d20eeade357df6d62e73a2481fe6bb ""
   (generated)
-  "resume.out"
-  "resume.log"
-  "resume.pdf"
-  "/Users/jackhsieh/project/resume/resume.pdf"
   "/Users/jackhsieh/project/resume/resume.log"
   "resume.aux"
+  "resume.log"
+  "/Users/jackhsieh/project/resume/resume.pdf"
+  "resume.pdf"
+  "resume.out"
